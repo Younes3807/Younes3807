@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! My name is Younes Aichiouene, 
+I'm a programmer in highchool and I'm working on learning GitHub as it's a useful tool for what I want to pursue in the future.
+
+My prounouns: He/Him.
 
 <!--
 **Younes3807/Younes3807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
